@@ -1,2 +1,0 @@
-# Taller-Poke-Api
-Trabajo colaborativo del equipo 4. Generation Colombia. (Entrega Individual): Kendry Y. Vargas Gaviria
